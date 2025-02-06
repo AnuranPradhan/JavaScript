@@ -33,7 +33,7 @@ setTimeout(function(){
       console.log("Hello")
     },2000)
   },1000);
-//   This Nesting callbacks is called the callbackhell to avoid this we can use promises
+//   This Nesting callbacks is called the callbackhell to avoid this we can use promisesgit
 //   In non promisified function you take function as an input but return nothing
 //   In promisified function you don't take function as an input but return the promise
   
